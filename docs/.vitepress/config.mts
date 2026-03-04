@@ -79,7 +79,7 @@ export default defineConfig(
                 { text: '1.2.1-环境搭建-Windows', link: 'docs/guide/01.认识ESP32/1.2-ESP32开发环境搭建/1.环境搭建-Windows.md' },
                 { text: '1.2.2-环境搭建-Ubuntu', link: 'docs/guide/01.认识ESP32/1.2-ESP32开发环境搭建/2.环境搭建-Ubuntu虚拟机.md' },
                 { text: '1.2.3-环境搭建Windows+Ubuntu', link: 'docs/guide/01.认识ESP32/1.2-ESP32开发环境搭建/3.环境搭建-Windows与虚拟机组合使用.md' },
-                // { text: '1.2.4-环境搭建-WSL2', link: '/01.认识ESP32/1.2-ESP32开发环境搭建/4.环境搭建-WSL2.md' },
+                { text: '1.2.4-环境搭建-EIM', link: 'docs/guide/01.认识ESP32/1.2-ESP32开发环境搭建/4.环境搭建-EIM.md' },
                 { text: '1.3-IDF.py的基本使用', link: 'docs/guide/01.认识ESP32/1.3-初试ESP32-idf.py的基本使用/idf.py的基本使用.md' },
               ]
             },
